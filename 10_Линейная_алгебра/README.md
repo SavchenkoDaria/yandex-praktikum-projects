@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `numpy` `scikit-learn`
+`python` `pandas` `numpy` `scikit-learn` `seaborn`
+
+`LinearRegression` `r2_score`
 
 ---
 

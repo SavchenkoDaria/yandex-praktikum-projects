@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `scikit-learn`
+`python` `pandas` `scikit-learn` `numpy` `scipy` `matplotlib` `lightgbm`
+
+`GridSearchCV` `RandomizedSearchCV` `TimeSeriesSplit` `cross_val_score` `train_test_split` `LinearRegression` `Ridge` `Lasso` `DecisionTreeRegressor` `RandomForestRegressor` `DummyRegressor` `CatBoostRegressor` `LGBMRegressor` `mean_squared_error` `Pipeline` `StandardScaler`
 
 ---
 

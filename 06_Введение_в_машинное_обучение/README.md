@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `matplotlib` `scikit-learn`
+`python` `pandas` `matplotlib` `scikit-learn` `numpy`
+
+`train_test_split` `DecisionTreeClassifier` `RandomForestClassifier` `LogisticRegression` `accuracy_score` `DummyClassifier`
 
 ---
 

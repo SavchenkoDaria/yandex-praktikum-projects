@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas`
+`python` `pandas` `seaborn` `numpy` `re` `plotly` `scikit-learn` `lightgbm`
+
+`StandardScaler` `OneHotEncoder` `OrdinalEncoder` `make_column_transformer` `make_pipeline` `mean_squared_error` `GridSearchCV` `RandomizedSearchCV` `LinearRegression` `Ridge` `Lasso` `DecisionTreeRegressor` `RandomForestRegressor` `DummyRegressor` `CatBoostRegressor` `LGBMRegressor` 
 
 ---
 

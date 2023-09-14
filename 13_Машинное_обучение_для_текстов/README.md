@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `BERT`
+`python` `pandas` `BERT` `transformers` `torch` `numpy` `seaborn` `re` `scikit-learn` 
+
+`LogisticRegression` `DecisionTreeClassifier` `RandomForestClassifier` `SVC` `GaussianNB` `KNeighborsClassifier` `DummyClassifier` `make_pipeline` `f1_score`
 
 ---
 

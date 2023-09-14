@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `scikit-learn` `bootstrap`
+`python` `pandas` `scikit-learn` `bootstrap` `matplotlib` `seaborn`
+
+`train_test_split` `StandardScaler` `LinearRegression` `mean_squared_error` `r2_score`
 
 ---
 

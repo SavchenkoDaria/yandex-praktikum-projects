@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `matplotlib` `numpy` `scikit-learn` `исследовательский анализ данных`
+`python` `pandas` `matplotlib` `numpy` `scikit-learn` `re` `seaborn` `plotly`
+
+`GridSearchCV` `StandardScaler` `mean_absolute_error` `LinearRegression` `Ridge` `Lasso` `ElasticNet` `DecisionTreeRegressor` `RandomForestRegressor` `GradientBoostingRegressor` `DummyRegressor`
 
 ---
 

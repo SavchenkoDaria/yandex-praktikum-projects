@@ -4,7 +4,9 @@
 
 ---
 
-`python` `pandas` `matplotlib` `scikit-learn`
+`python` `pandas` `matplotlib` `scikit-learn` `numpy` `seaborn` `re` 
+
+`train_test_split` `StandardScaler` `OneHotEncoder` `DecisionTreeClassifier` `RandomForestClassifier` `LogisticRegression` `LinearRegression` `accuracy_score` `confusion_matrix` `recall_score` `precision_score` `f1_score` `roc_curve` `roc_auc_score` `SMOTE` `RandomUnderSampler` `DummyClassifier`
 
 ---
 
